@@ -25,7 +25,7 @@ setup(
         'psutil==5.9.0',
         'psycopg2-binary==2.9.3',
         'pycrypto==2.6.1',
-        'requests==2.28.2',
+        'requests==2.32.2',
         'requests[socks]==2.28.2',
         'impacket==0.9.24',
         'paramiko==2.7.1',
