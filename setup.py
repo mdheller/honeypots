@@ -21,7 +21,7 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        'twisted==21.7.0',
+        'twisted==23.10.0',
         'psutil==5.9.0',
         'psycopg2-binary==2.9.3',
         'pycrypto==2.6.1',
